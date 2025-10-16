@@ -21,6 +21,7 @@ Happy Prompting!
 ---
 ## Announcements / Updates
 
+
 - 🎓 We now offer self-paced prompt engineering courses under our DAIR.AI Academy. [Join Now](https://dair-ai.thinkific.com/bundles/pro)! 
 - 🎓 New course on Prompt Engineering for LLMs announced! [Enroll here](https://maven.com/dair-ai/prompt-engineering-llms)!
 - 💼 We now offer several [services](https://www.promptingguide.ai/services) like corporate training, consulting, and talks.
